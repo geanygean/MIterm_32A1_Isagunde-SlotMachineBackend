@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Arvegean Isagunde\\Downloads\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\SlotMachine\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SlotMachine.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SlotMachine.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SlotMachine.props",
+      "PackagePath": "build\\SlotMachine.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SlotMachine.props",
+      "PackagePath": "buildMultiTargeting\\SlotMachine.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SlotMachine.props",
+      "PackagePath": "buildTransitive\\SlotMachine.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

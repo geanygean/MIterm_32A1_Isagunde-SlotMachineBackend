@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arvegean Isagunde\\Downloads\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16FA2399-EA1D-45A1-8CAF-B631E6CBE401}|SlotMachine\\SlotMachine.csproj|c:\\users\\arvegean isagunde\\downloads\\midterm_a1_31e1_delos_santos_rakko-main\\midterm_a1_31e1_delos_santos_rakko-main\\slotmachine\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16FA2399-EA1D-45A1-8CAF-B631E6CBE401}|SlotMachine\\SlotMachine.csproj|solutionrelative:slotmachine\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16FA2399-EA1D-45A1-8CAF-B631E6CBE401}|SlotMachine\\SlotMachine.csproj|c:\\users\\arvegean isagunde\\downloads\\midterm_a1_31e1_delos_santos_rakko-main\\midterm_a1_31e1_delos_santos_rakko-main\\slotmachine\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16FA2399-EA1D-45A1-8CAF-B631E6CBE401}|SlotMachine\\SlotMachine.csproj|solutionrelative:slotmachine\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16FA2399-EA1D-45A1-8CAF-B631E6CBE401}|SlotMachine\\SlotMachine.csproj|c:\\users\\arvegean isagunde\\downloads\\midterm_a1_31e1_delos_santos_rakko-main\\midterm_a1_31e1_delos_santos_rakko-main\\slotmachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16FA2399-EA1D-45A1-8CAF-B631E6CBE401}|SlotMachine\\SlotMachine.csproj|solutionrelative:slotmachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16FA2399-EA1D-45A1-8CAF-B631E6CBE401}|SlotMachine\\SlotMachine.csproj|c:\\users\\arvegean isagunde\\downloads\\midterm_a1_31e1_delos_santos_rakko-main\\midterm_a1_31e1_delos_santos_rakko-main\\slotmachine\\controllers\\slotmachinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16FA2399-EA1D-45A1-8CAF-B631E6CBE401}|SlotMachine\\SlotMachine.csproj|solutionrelative:slotmachine\\controllers\\slotmachinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16FA2399-EA1D-45A1-8CAF-B631E6CBE401}|SlotMachine\\SlotMachine.csproj|c:\\users\\arvegean isagunde\\downloads\\midterm_a1_31e1_delos_santos_rakko-main\\midterm_a1_31e1_delos_santos_rakko-main\\slotmachine\\models\\gameresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16FA2399-EA1D-45A1-8CAF-B631E6CBE401}|SlotMachine\\SlotMachine.csproj|solutionrelative:slotmachine\\models\\gameresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16FA2399-EA1D-45A1-8CAF-B631E6CBE401}|SlotMachine\\SlotMachine.csproj|c:\\users\\arvegean isagunde\\downloads\\midterm_a1_31e1_delos_santos_rakko-main\\midterm_a1_31e1_delos_santos_rakko-main\\slotmachine\\models\\playerregistrationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16FA2399-EA1D-45A1-8CAF-B631E6CBE401}|SlotMachine\\SlotMachine.csproj|solutionrelative:slotmachine\\models\\playerregistrationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16FA2399-EA1D-45A1-8CAF-B631E6CBE401}|SlotMachine\\SlotMachine.csproj|c:\\users\\arvegean isagunde\\downloads\\midterm_a1_31e1_delos_santos_rakko-main\\midterm_a1_31e1_delos_santos_rakko-main\\slotmachine\\models\\gameresultrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16FA2399-EA1D-45A1-8CAF-B631E6CBE401}|SlotMachine\\SlotMachine.csproj|solutionrelative:slotmachine\\models\\gameresultrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Arvegean Isagunde\\Downloads\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\SlotMachine\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "SlotMachine\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Arvegean Isagunde\\Downloads\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\SlotMachine\\wwwroot\\index.html",
+              "RelativeToolTip": "SlotMachine\\wwwroot\\index.html",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAQwMYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-18T15:30:53.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Arvegean Isagunde\\Downloads\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\SlotMachine\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SlotMachine\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Arvegean Isagunde\\Downloads\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\SlotMachine\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SlotMachine\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-18T12:12:37.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arvegean Isagunde\\Downloads\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\SlotMachine\\Program.cs",
+              "RelativeDocumentMoniker": "SlotMachine\\Program.cs",
+              "ToolTip": "C:\\Users\\Arvegean Isagunde\\Downloads\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\SlotMachine\\Program.cs",
+              "RelativeToolTip": "SlotMachine\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T12:10:20.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SlotMachineController.cs",
+              "DocumentMoniker": "C:\\Users\\Arvegean Isagunde\\Downloads\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\SlotMachine\\Controllers\\SlotMachineController.cs",
+              "RelativeDocumentMoniker": "SlotMachine\\Controllers\\SlotMachineController.cs",
+              "ToolTip": "C:\\Users\\Arvegean Isagunde\\Downloads\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\SlotMachine\\Controllers\\SlotMachineController.cs",
+              "RelativeToolTip": "SlotMachine\\Controllers\\SlotMachineController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T12:07:41.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerRegistrationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Arvegean Isagunde\\Downloads\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\SlotMachine\\Models\\PlayerRegistrationRequest.cs",
+              "RelativeDocumentMoniker": "SlotMachine\\Models\\PlayerRegistrationRequest.cs",
+              "ToolTip": "C:\\Users\\Arvegean Isagunde\\Downloads\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\SlotMachine\\Models\\PlayerRegistrationRequest.cs",
+              "RelativeToolTip": "SlotMachine\\Models\\PlayerRegistrationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T12:06:33.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameResultRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Arvegean Isagunde\\Downloads\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\SlotMachine\\Models\\GameResultRequest.cs",
+              "RelativeDocumentMoniker": "SlotMachine\\Models\\GameResultRequest.cs",
+              "ToolTip": "C:\\Users\\Arvegean Isagunde\\Downloads\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\SlotMachine\\Models\\GameResultRequest.cs",
+              "RelativeToolTip": "SlotMachine\\Models\\GameResultRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T12:05:46.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameResult.cs",
+              "DocumentMoniker": "C:\\Users\\Arvegean Isagunde\\Downloads\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\SlotMachine\\Models\\GameResult.cs",
+              "RelativeDocumentMoniker": "SlotMachine\\Models\\GameResult.cs",
+              "ToolTip": "C:\\Users\\Arvegean Isagunde\\Downloads\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\SlotMachine\\Models\\GameResult.cs",
+              "RelativeToolTip": "SlotMachine\\Models\\GameResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T12:03:46.584Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

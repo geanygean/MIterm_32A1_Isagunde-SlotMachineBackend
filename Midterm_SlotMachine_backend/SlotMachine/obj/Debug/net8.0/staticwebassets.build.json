@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "ByHbdWLgvEPvT1jR9qBy0D3Ac/rDaqvTQE19J4efo/c=",
+  "Source": "SlotMachine",
+  "BasePath": "_content/SlotMachine",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SlotMachine\\wwwroot",
+      "Source": "SlotMachine",
+      "ContentRoot": "C:\\Users\\Arvegean Isagunde\\Downloads\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\SlotMachine\\wwwroot\\",
+      "BasePath": "_content/SlotMachine",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Arvegean Isagunde\\Downloads\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\SlotMachine\\wwwroot\\index.html",
+      "SourceId": "SlotMachine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Arvegean Isagunde\\Downloads\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\SlotMachine\\wwwroot\\",
+      "BasePath": "_content/SlotMachine",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "263enslx4j",
+      "Integrity": "iv7zqAuFfH5HifdVM2lCt7PJ6XsO6WadH1rs33L9VL0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.263enslx4j.html",
+      "AssetFile": "C:\\Users\\Arvegean Isagunde\\Downloads\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\SlotMachine\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iv7zqAuFfH5HifdVM2lCt7PJ6XsO6WadH1rs33L9VL0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 14:29:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "263enslx4j"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iv7zqAuFfH5HifdVM2lCt7PJ6XsO6WadH1rs33L9VL0="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Arvegean Isagunde\\Downloads\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\MIDTERM_A1_31E1_DELOS_SANTOS_RAKKO-main\\SlotMachine\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iv7zqAuFfH5HifdVM2lCt7PJ6XsO6WadH1rs33L9VL0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 25 Apr 2025 14:29:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iv7zqAuFfH5HifdVM2lCt7PJ6XsO6WadH1rs33L9VL0="
+        }
+      ]
+    }
+  ]
+}
